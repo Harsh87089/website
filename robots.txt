@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ewmotors.surge.sh/sitemap.xml
